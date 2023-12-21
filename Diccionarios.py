@@ -25,8 +25,7 @@ print(datos["nombre"])
 print(datos2["edad"])
 print(datos3["ciudad"])
 
-
-
+print ("hola mundo")
 persona1  = {
     "nombre": None,
     "edad": None,
